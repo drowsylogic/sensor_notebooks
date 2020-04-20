@@ -1,4 +1,6 @@
-# <font color='#ffdd00'>About this Repository:</font>
+```html
+   <h1><font color='#ffdd00'>About this Repository:</font></h1>
+```
 This repository was started to hold educational Jupyter Notebooks for concepts related to Vibration Monitoring.  
 When dealing with modern vibration monitoring we must practice Digital Signal Processing (DSP).  
 Some of the notebooks in this repository deal specifically with the Tri-Axial, RS485, Modbus RTU Slave Device manufactured by Machine Saver Inc.  
