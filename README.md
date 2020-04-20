@@ -16,7 +16,7 @@ To use any of the notebooks in this repository you should follow the steps in th
 * [Vibration Mode Class](https://github.com/drowsylogic/sensor_notebooks/blob/master/TriVibe_Class_Vibration.ipynb)  
 * [Impact Mode Class](https://github.com/drowsylogic/sensor_notebooks/blob/master/TriVibe_Class_Impact.ipynb)  
 
-### Notebook Files for Vibration Monitoring / Analysis:  
+### Notebook Files for Vibration Monitoring / Analysis / DSP:  
 #### (No Physical Components Required to Run)  
 * [About Timewave Form and Spectrum](https://github.com/drowsylogic/sensor_notebooks/blob/master/About_Vibration_Spectrum_%26_Timewave_Form.ipynb)  
 * [Timewave Form Filtering](https://github.com/drowsylogic/sensor_notebooks/blob/master/Digital_Signal_Filtering.ipynb)  
