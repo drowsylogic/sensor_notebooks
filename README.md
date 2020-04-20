@@ -12,8 +12,9 @@ To use any of the notebooks in this repository you should follow the steps in th
 
 ### Notebook Files for Machine Saver's Tri-Vibe Sensor 
 #### (Require a [TriVibe](https://www.machinesaver.com/product/vtb-trivibe/) Modbus Device Purchased from [Machine Saver](https://www.machinesaver.com/) and a [Serial to RS485 Converter](https://www.amazon.com/JBtek-Converter-Adapter-ch340T-Supported/dp/B00NKAJGZM/ref=sr_1_3?dchild=1&keywords=usb+to+rs485+converter&qid=1587417483&sr=8-3) to Run Successfully)  
-* [Vibration Mode](https://github.com/drowsylogic/sensor_notebooks/blob/master/TriVibe_Class_Vibration.ipynb)  
-* [Impact Mode](https://github.com/drowsylogic/sensor_notebooks/blob/master/TriVibe_Class_Impact.ipynb)  
+* [Vibration Mode Guide](https://github.com/drowsylogic/sensor_notebooks/blob/master/Machine_Saver_Jupyter_ver301.zip)  
+* [Vibration Mode Class](https://github.com/drowsylogic/sensor_notebooks/blob/master/TriVibe_Class_Vibration.ipynb)  
+* [Impact Mode Class](https://github.com/drowsylogic/sensor_notebooks/blob/master/TriVibe_Class_Impact.ipynb)  
 
 ### Notebook Files for Vibration Monitoring / Analysis:  
 #### (No Physical Components Required to Run)  
